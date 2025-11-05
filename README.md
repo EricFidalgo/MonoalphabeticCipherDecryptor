@@ -1,6 +1,6 @@
 # Monoalphabetic Cipher Decryptor
 
-**[→ View Project Page](https://www.google.com/search?q=https://ericfidalgo.github.io/portfolio/projects/MonoalphabeticCipherDecryptor)**
+**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/project.html?id=monoalphabetic-cipher-decryptor)**
 
 ## Project Description
 
